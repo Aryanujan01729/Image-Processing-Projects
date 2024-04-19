@@ -17,11 +17,13 @@ Your function should take input as an image array and it should return the outpu
 Indian ancient Sanskrit literature holds a wealth o knowledge, encrypted in the language thatmodern society is not uent in. To digitize this knowledge, we need to scan the images and thenuse optical character recognition (OCR), an image processing algorithms to digitize it. However,many times, the scanned images are not horizontally aligned, which causes OCR to ail or pro-duce erroneous digitization. These scanned images need to be re-rotated so that the fnal textappears perectly aligned horizontally in a readable orm.Design a python program to realign scanned text always in horizontal viewing manner. Fig. 3shows some o inputs and corresponding output or these images. Your program will be testedon various dierent input images where in the output any text character should not be cut andimage should be horizontally alinged. Output image size can be dierent than input image size
 
 # INPUT 
-1)  ![3_b](https://github.com/Aryanujan01729/Image-Processing-Projects/assets/139656147/9f2cf963-abd1-4bbd-bd66-2cc9fa27799f)
+1)  ![3_c](https://github.com/Aryanujan01729/Image-Processing-Projects/assets/139656147/3b927c31-7a77-41c5-b198-7e79a27e945b)
+
 
 
 # OUTPUT
-![Screenshot 2024-04-19 193416](https://github.com/Aryanujan01729/Image-Processing-Projects/assets/139656147/197f9481-d86c-41f5-a5cd-b15fc48d9c97)
+1) ![Screenshot 2024-04-20 044119](https://github.com/Aryanujan01729/Image-Processing-Projects/assets/139656147/6ddc30c5-2e40-47a6-b76a-a5b916bb2d82)
+
 
 
 
