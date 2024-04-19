@@ -4,8 +4,12 @@ The national ag holds signifcant cultural and symbolic importance or a nat
 Your function should take input as an image array and it should return the output as animage array. Here input size may vary but each reerence image is having a size 600x600 pixels,radius o circle = 100, center o circle is (300,300), circle width = 2 and spoke width = 1 pixel. Youwill be given the python program, where you have to complete the unction while returning theproper reerence image or each input image. There will be 10 to 20 test cases used or automaticevaluation o your program. Think about all corner cases.
 # INPUT
 
-![1](https://github.com/Aryanujan01729/Image-Processing-Projects/assets/139656147/9dacdcc0-1573-4ec3-b896-7803ef8df8d7)
+![1](https://github.com/Aryanujan01729/Image-Processing-Projects/assets/139656147/9dacdcc0-1573-4ec3-b896-7803ef8df8d7)    
+![4](https://github.com/Aryanujan01729/Image-Processing-Projects/assets/139656147/d43be3c2-22c3-4a75-ac7b-d051a4f53b7a)
+
 
 # OUTPUT
 ![1](https://github.com/Aryanujan01729/Image-Processing-Projects/assets/139656147/3804c873-d356-450b-8806-48c3b5ec8e0e)
+![4](https://github.com/Aryanujan01729/Image-Processing-Projects/assets/139656147/4fa42263-f417-436c-b4e6-aefa3613e929)
+
 
